@@ -1,0 +1,5 @@
+print("    /\    ")
+print('   /__\    ')
+print('  /____\   ')
+print(' /      \ ')
+print('/        \ ')
